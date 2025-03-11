@@ -1,9 +1,7 @@
 # Kleurcodes
 
 **Achtergrondkleur**
-```
-#ede3daff
-```
+![Kleurcodes](kleurcodes.jpeg)
 
 **Font**
 
