@@ -1,8 +1,5 @@
 # Kleurcodes
-
-**Achtergrondkleur**
 ![Kleurcodes](kleurcodes.jpeg)
 
-**Font**
-
+# Font
 Roboto
